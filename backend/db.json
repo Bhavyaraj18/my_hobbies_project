@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "email": "ram",
+      "password": "1234",
+      "role": "admin",
+      "id": "B5cOVTOgGKg"
+    },
+    {
+      "email": "pavan",
+      "password": "1234",
+      "role": "admin",
+      "id": "n3e8bo1qxhY"
+    },
+    {
+      "email": "ram",
+      "password": "$2b$10$36Q.pZnq32OZA3EzMaX6G.yAKUuOeGyw1sfD99EWnwIGe7mWXkYRG",
+      "role": "admin",
+      "id": "9SeM2-n3XQw"
+    },
+    {
+      "email": "suma",
+      "password": "$2b$10$fWqUeL1gUwbhx3ZL0wi6E.MUSaz3ZtvXhhEMczACYmGe5mWNkS5Ia",
+      "role": "admin",
+      "id": "fxdomcruDm4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
